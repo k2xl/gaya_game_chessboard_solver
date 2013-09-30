@@ -1,0 +1,16 @@
+{
+	"settings": {
+        "GoSublime": {
+            "env": {
+                "GOPATH": "$HOME/IonicDev/puzzle_solver"
+            }
+        }
+    },
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/danny/IonicDev/puzzle_solver"
+		}
+	]
+}

@@ -1,0 +1,184 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 237.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"ls",
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danny/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danny/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/danny/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/danny/IonicDev/puzzle_solver/board",
+		"/Users/danny/IonicDev/puzzle_solver/main.go",
+		"/Users/danny/IonicDev/puzzle_solver/piece",
+		"/Users/danny/IonicDev/puzzle_solver/puzzle.sublime-project",
+		"/Users/danny/IonicDev/dashingboard/dashboards/sample.erb",
+		"/Users/danny/IonicDev/dashingboard/jobs/news.rb",
+		"/Users/danny/IonicDev/dashingboard/Gemfile",
+		"/Users/danny/IonicDev/dashingboard/jobs/whatever.xml",
+		"/Users/danny/IonicDev/dashingboard/widgets/news/news.coffee",
+		"/Users/danny/IonicDev/dashingboard/widgets/news/news.html",
+		"/Users/danny/IonicDev/dashingboard/widgets/news/news.scss",
+		"/Users/danny/IonicDev/dashingboard/jobs/stash_pull_requests.rb",
+		"/Users/danny/IonicDev/dashingboard/history.yml",
+		"/Users/danny/IonicDev/dashingboard/widgets/stash/stash_pull_requests.coffee",
+		"/Users/danny/IonicDev/dashingboard/widgets/stash_pull_requests/stash_pull_requests.rb",
+		"/Users/danny/IonicDev/dashingboard/widgets/stash_pull_requests/stash_pull_requests.html",
+		"/Users/danny/IonicDev/dashingboard/widgets/stash_pull_requests/stash_pull_requests.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"styles",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "puzzle_solver.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/IonicDev/puzzle_solver/piece.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
